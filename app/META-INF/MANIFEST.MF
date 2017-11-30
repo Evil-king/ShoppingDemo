@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: app
+Bundle-SymbolicName: app
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.aladingbank,
+ com.aladingbank.config,
+ com.aladingbank.contoller,
+ com.aladingbank.utils

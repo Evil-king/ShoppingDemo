@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1511149260628_0" label="shopping-demo" name="shopping-demo">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/app" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dao" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/facde" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/service" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1511153631034_1" label="taotao-manager" name="taotao-manager">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-manager" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-manager-dao" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-manager-pojo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-manager-interface" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-manager-service" type="4"/>
+</workingSet>
+</workingSetManager>

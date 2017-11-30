@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: dao
+Bundle-SymbolicName: dao
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.aladingbank,
+ com.aladingbank.dao.sample,
+ com.aladingbank.entity.sample
